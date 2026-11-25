@@ -70,6 +70,8 @@ plot(TukeyHSD(model1))
 
 The tukey graph shows there is a difference in alcohol consumption between students who sit in the front and back and middle and back. there is no difference in alcohol consumption between the front and middle rows.
 
-## Conclusions
+## Conclusion
 
-
+Does the row of seats you sit have an impact on alcohol consumption?  
+recorded data shows that students sitting in the back row consume a higher level of alcohol on average than students in the middle and front rows.  
+We reject the null hypothesis that says that the row that you sit does not determine your alcohol consumption at all.  
